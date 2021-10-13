@@ -28,7 +28,7 @@ defaults:
 
 
 title: "zhwly"
-email: sincerebravefight@gmail.com
+email: A15216114872@gmail.com
 description: ""
 github:
   username: zhwly
@@ -39,8 +39,8 @@ gitment:
     client_id: bf36d4c78dcdfe31cfd0
     client_secret: 98e0a2a454adbee7714fd5e9edc8e2fca47fe404
 
-url: "https://bit-ranger.github.io/blog"
-imgrepo: "https://bit-ranger.github.io/blog/static/img"
+url: "https://github.com/zhwly/zhwly.github.io"
+imgrepo: "https://github.com/zhwly/zhwly.github.io/static/img"
 
 
 #url: "http://127.0.0.1:4000"
