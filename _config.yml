@@ -29,7 +29,7 @@ defaults:
 
 title: "zhwly"
 email: A15216114872@gmail.com
-description: "欢迎来到我的博客"
+description: ""
 github:
   username: zhwly
 swiftype:
@@ -43,6 +43,6 @@ url: "https://zhwly.github.io"
 imgrepo: "https://zhwly.github.io/static/img"
 
 
-#url: "https://github.com/zhwly"
-#imgrepo: "http://127.0.0.1:4000/static/img"
+#url: "https://github.com/zhwlyzhwly.github.io/"
+#imgrepo: "https://github.com/zhwly/zhwly.github.io/static/img"
 
